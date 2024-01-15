@@ -1,7 +1,7 @@
 # Relatório de Implementação de Serviçps AWS
-Data: [data de início do projeto] 
-Empresa: Abstergo Industries 
-Responsável: [Lucas Paulino]
+- Data: 15/01/2024
+- Empresa: Abstergo Industries 
+- Responsável: Lucas Paulino
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Lucas Paulino. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
@@ -27,4 +27,4 @@ Etapa 3:
 ## Conclusão
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado reduzir o alto investimento em infraestrutura e evitar poder computacional ocioso ou por muitas vezes a falta dele, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
-Assinatura do Responsável pelo Projeto: [Lucas Paulino]
+Assinatura do Responsável pelo Projeto: Lucas Paulino
